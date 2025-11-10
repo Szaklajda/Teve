@@ -26,6 +26,12 @@ input {
 	padding: 5px;
 }
 
+#romhanyi {
+	text-align: right;
+	font-style: italic;
+	font-size: 11px;
+}
+
 #vers {
 	width: 600px;
 	margin: 0 auto;
